@@ -3,6 +3,11 @@
 ![](https://custom-icon-badges.demolab.com/badge/Quezon_City-Philippines-purple?style=for-the-badge&logo=location&logoColor=white) [![](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=person)](https://www.linkedin.com/in/josh-edilrey-de-guzman/) [![](https://custom-icon-badges.demolab.com/badge/-Gmail-ea4335?style=for-the-badge&logo=mail&logoColor=white)](joshedilreydeguzman@gmail.com)
 
 
+# Portfolio Website
+
+[https://edilrey.github.io/portfolio/](https://edilrey.github.io/portfolio/)
+
+
 # Past Projects
 
 ## Sweetdazzle Online Ordering System
